@@ -65,12 +65,12 @@ Chasm is a Web MIDI tracker that brings the classic tracker interface to the bro
 - **tracker2.html** - Enhanced version with improved UI
 - **tracker3.html** - Advanced version with MIDI + Web Audio dual output modes
 
-### MIDI Experiments
-- **midi1.html** - Ambient MIDI Generator v1
-- **midi2.html** - Ambient MIDI Generator v2
-- **midi3.html** - Ambient MIDI Generator v3
-- **midi4.html** - Ambient MIDI Generator v4
-- **midi5.html** - Ambient MIDI Generator v5 (latest)
+### Ambient Generators
+- **ambient1.html** - Ambient MIDI Generator v1
+- **ambient2.html** - Ambient MIDI Generator v2
+- **ambient3.html** - Ambient MIDI Generator v3
+- **ambient4.html** - Ambient MIDI Generator v4
+- **ambient5.html** - Ambient MIDI Generator v5 (latest)
 
 ### Libraries
 - **midi-synths.js** - MIDI synth abstraction library with support for:
@@ -115,6 +115,10 @@ Each pattern consists of:
 ## Inspiration
 
 Inspired by [Schism Tracker](https://github.com/schismtracker/schismtracker), a free and open-source reimplementation of Impulse Tracker.
+
+## Fork This!
+
+**Do fork this stuff!** Everything is packed in one HTML file that includes CSS and JS, so it's super easy to vibe with. It's unlicensed (public domain), so do whatever you want with it. And let me know if you make something cool! 🎵
 
 ## License
 
